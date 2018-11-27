@@ -1,8 +1,11 @@
 # COMP1010_AdventureGame
 
-Nicole Martino and Brandon Trimble 
+Nicole Martino and Brandon Trimble
+
 26 November 2018 
+
 Professor Johnson 
+
 Comp 1010 
 
 
