@@ -118,7 +118,7 @@ def main():
 
             # Respond differently depending on gold status
             if "gold" in inventory:
-                dialog = "Welcome Sir Knight!"
+                dialog = "Thank you Sir Skeleton!"
             else:
                 dialog = "Go away loser!"
 
